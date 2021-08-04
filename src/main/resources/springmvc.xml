@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+    <!-- 扫描controller处理类.为了创建对象. -->
+    <component-scan base-package="com.bruce.controller,com.bruce.service"></component-scan>
+
+</beans>
+
+
+
