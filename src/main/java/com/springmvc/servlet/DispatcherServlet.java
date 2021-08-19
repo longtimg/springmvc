@@ -86,6 +86,9 @@ public class DispatcherServlet extends HttpServlet {
         initHandlerMapping();
 
         System.out.println(handlerMap);
+
+
+
     }
 
     private void initHandlerMapping() {
